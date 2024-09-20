@@ -20,7 +20,7 @@
 
 ### Let's Some Music？🎼 
 
-<a href="https://Planifolia.pythonanywhere.com/link">
+<a align="center" href="https://Planifolia.pythonanywhere.com/link">
   <img
     src="https://Planifolia.pythonanywhere.com"
     alt="Current Spotify Song"
@@ -45,7 +45,7 @@
 
 <p>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=VanPlanifolia">
-    <img width="45%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanPlanifolia" />
+    <img width="40%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanPlanifolia" />
   </a>
 
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>   <code><img width="15%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>   <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
