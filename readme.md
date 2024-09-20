@@ -21,7 +21,7 @@
 <br>
 <div align="center">
   <h3> Let's Some Music？🎼 </h3>
-<a href="https://github.com/VanPlanifolia">
+<a href="https://open.spotify.com/playlist/51TQ9MEJFNq7wL4UAs5D42?si=2wMt33-AQ3aBhPPLQ8P1rQ&pi=4U2qgrIPSfCY3">
   <picture>
     <source
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
