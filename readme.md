@@ -18,16 +18,24 @@
 
 </div>
 
-### Let's Some Music？🎼 
-
-<a align="center" href="https://Planifolia.pythonanywhere.com/link">
-  <img
-    src="https://Planifolia.pythonanywhere.com"
-    alt="Current Spotify Song"
-  />
+<br>
+<div align="center">
+  <h3> Let's Some Music？🎼 </h3>
+<a href="https://github.com/VanPlanifolia">
+  <picture>
+    <source
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      srcset="https://Planifolia.pythonanywhere.com?theme=light&scan=true&eq_color=rainbow"
+    />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://Planifolia.pythonanywhere.com?theme=dark&scan=true&eq_color=rainbow"
+    />
+    <img alt="Current Spotify Song"> <!-- https://github.com/tthn0/Spotify-Readme -->
+  </picture>
 </a>
-
-
+</div>
+<br>
 
 <h3>Is Meee!  🙉</h3> 
 
@@ -40,12 +48,12 @@
     - 💬 Ask me about Java, Vue and my works on zhenyuncui@gmail.com
 
   
-    
+<br>
 <h3> Is Skillsss! 🚀</h3> 
 
 <p>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=VanPlanifolia">
-    <img width="40%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanPlanifolia" />
+    <img width="38%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanPlanifolia" />
   </a>
 
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>   <code><img width="15%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>   <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
@@ -55,8 +63,8 @@
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>   <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>   <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
-
-  <h3>Is Worksss!  🔨</h3>
+<br>
+<h3>Is Worksss!  🔨</h3>
 
 
 - [我的随笔](https://github.com/VanPlanifolia/MyNotes)
