@@ -20,7 +20,12 @@
 
 ### Let's Some Music？🎼 
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7qEHsqek33rTcFNT9PFqLf?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<a href="https://Planifolia.pythonanywhere.com/link">
+  <img
+    src="https://Planifolia.pythonanywhere.com"
+    alt="Current Spotify Song"
+  />
+</a>
 
 ### Is Meee!  🙉
 
