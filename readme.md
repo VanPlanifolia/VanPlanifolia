@@ -68,6 +68,7 @@
 
 
 - [我的随笔](https://github.com/VanPlanifolia/MyNotes)
+- [一个简单的MQ](https://github.com/VanPlanifolia/planifolia-mq)
 - [更方便的RabbitMQ](https://github.com/VanPlanifolia/PlanifoliaRabbitMQ)
 - [更方便的RocketMQ](https://github.com/VanPlanifolia/PlanfioliaRocketMQ)
 - [更方便的文字脱敏](https://github.com/VanPlanifolia/planifoliaSensitiveWord)
